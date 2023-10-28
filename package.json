@@ -1,5 +1,5 @@
 {
-  "name": "nexus-prisma",
+  "name": "nexus-prisma-gql-dep-fix",
   "version": "2.0.1",
   "main": "./dist-cjs/entrypoints/main.js",
   "repository": "git@github.com:graphql-nexus/nexus-prisma.git",
